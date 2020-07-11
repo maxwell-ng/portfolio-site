@@ -1,2 +1,2 @@
 # portfolio-site
-This is my portfolio site. It is built using HTML, CSS and JavaScript
+This is my portfolio site. It was built using HTML, CSS and JavaScript
